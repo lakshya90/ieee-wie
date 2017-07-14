@@ -55,10 +55,7 @@
 #Training on Your Own Categories
 --image_dir=<root folder containing subfolders having folder names as label names, and the images inside each folder should be pictures that correspond to that label>
 
-* NOTE : You can find the entire code at https://github.com/lakshya90/women-techmakers-intern-meeetup/ *
+* NOTE : You can find the entire code at https://github.com/lakshya90/ieee-wie/ *
       
-
-Feedback form : https://goo.gl/forms/XRkcKwApgrqjtZcG2
-
 
 
