@@ -57,5 +57,6 @@
 
 * NOTE : You can find the entire code at https://github.com/lakshya90/ieee-wie/ *
       
-
+Try out a similar exercise with :
+Stanford Dogs Dataset : http://vision.stanford.edu/aditya86/ImageNetDogs/
 
